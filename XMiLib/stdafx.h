@@ -14,6 +14,6 @@
 #include <QtWidgets>
 #include <QtGui>
 #include <QtCore>
-
+#include <qt_windows.h>
 
 #endif // XMILIB_SSTDAFX_H
